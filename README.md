@@ -18,7 +18,6 @@
 <br/>
 
 <a href="https://github.com/jtao22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtao22&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtao22&theme=buefy&layout=compact" />
 </a>
 
@@ -27,8 +26,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/jonathan.tao.50702/">Facebook</a>
-<a href="https://www.instagram.com/jonathantao_/">Instagtam</a>
-<a href="mailto:jellybellyjonny@gmail.com">Email</a>
+<a href="https://www.facebook.com/jonathan.tao.50702/">Facebook &nbsp;</a>
+<a href="https://www.instagram.com/jonathantao_/">Instagram &nbsp;</a>
+<a href="mailto:jellybellyjonny@gmail.com">Email &nbsp;</a>
 </p>
 
