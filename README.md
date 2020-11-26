@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2> Heyo! I'm  Jonathan 👋</h2>
 
-<!--
-**jtao22/jtao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Some of my hobbies are doing USACO practice, Competitive Math and working out!
+- 🎓 &nbsp; Junior Mission San Jose High School (C/O 2022).
+- 🌱 &nbsp; Interested in ML/AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp; C++ &nbsp; Java &nbsp; Python &nbsp; OCTAVE/Matlab 
+- 🌐 &nbsp; HTML/CSS &nbsp; JavaScript &nbsp; Node.js &nbsp; React &nbsp; Swift &nbsp; PHP
+
+- 🛢 &nbsp; MongoDB
+- ⚙️ &nbsp; Git &nbsp; Github
+- 🔧 &nbsp; VS Code &nbsp; Sublime &nbsp; Codeblocks &nbsp; XCode
+
+<br/>
+
+<a href="https://github.com/jtao22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtao22&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtao22&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.facebook.com/jonathan.tao.50702/">Facebook</a>
+<a href="https://www.instagram.com/jonathantao_/">Instagtam</a>
+<a href="mailto:jellybellyjonny@gmail.com">Email</a>
+</p>
+
