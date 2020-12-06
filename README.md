@@ -26,7 +26,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/jonathan.tao.50702/">Facebook &nbsp;</a>
+<a target="_blank" href="https://www.facebook.com/jonathan.tao.50702/">Facebook &nbsp;</a>
 <a href="https://www.instagram.com/jonathantao_/">Instagram &nbsp;</a>
 <a href="mailto:jellybellyjonny@gmail.com">Email &nbsp;</a>
 </p>
