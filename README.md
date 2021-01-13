@@ -20,7 +20,7 @@
 <a href="https://github.com/jtao22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtao22&theme=buefy&layout=compact" />
 </a>
-
+^ Google Colab files are HUGE so the proportions are off!
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
