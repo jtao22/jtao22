@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Some of my hobbies are doing USACO practice, Competitive Math and working out!
 - 🎓 &nbsp; Junior Mission San Jose High School (C/O 2022).
 - 🌱 &nbsp; Interested in ML/AI
 
