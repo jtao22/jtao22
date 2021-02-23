@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Junior Mission San Jose High School (C/O 2022).
+- 🎓 &nbsp; Junior @ Mission San Jose High School (C/O 2022).
 - 🌱 &nbsp; Interested in ML/AI
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; C++ &nbsp; Java &nbsp; Python &nbsp; OCTAVE/Matlab 
+- 💻 &nbsp; C++ &nbsp; Java &nbsp; Python (Jupyter Notebook) &nbsp; OCTAVE/Matlab 
 - 🌐 &nbsp; HTML/CSS &nbsp; JavaScript &nbsp; Node.js &nbsp; React &nbsp; Swift &nbsp; PHP
 
 - 🛢 &nbsp; MongoDB
