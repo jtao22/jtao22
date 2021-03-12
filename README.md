@@ -16,7 +16,6 @@
 <h4> Novice </h4>
 (Operating) Windows, Android, Linux/Unix; (database) SQL/PL, MongoDB; (statistical/data-processing) R; (PPLs) Tensorflow;
 
-<br/>
 
 <a href="https://github.com/jtao22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtao22&theme=buefy&layout=compact" />
