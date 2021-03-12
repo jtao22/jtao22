@@ -6,7 +6,7 @@
 - 🌱 &nbsp; Interested in ML/AI
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+<p>
 <h4> Proficient </h4>
 (Operating) MacOS; (general programming) C++; (web/markup) HTML/CSS, Javascript (Node, Express, React); (Tools) VS Code, Sublime, XCode, Codeblocks, Git, Github;
 
@@ -15,7 +15,7 @@
 
 <h4> Novice </h4>
 (Operating) Windows, Android, Linux/Unix; (database) SQL/PL, MongoDB; (statistical/data-processing) R; (PPLs) Tensorflow;
-
+</p>
 <br>
 
 <a href="https://github.com/jtao22">
