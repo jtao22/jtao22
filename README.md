@@ -7,12 +7,16 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; C++ &nbsp; Java &nbsp; Python (Jupyter Notebook) &nbsp; OCTAVE/Matlab 
-- 🌐 &nbsp; HTML/CSS &nbsp; JavaScript &nbsp; Node.js &nbsp; React &nbsp; Swift &nbsp; PHP
+Proficient
+(Operating) MacOS; (general programming) C++; (web/markup) HTML/CSS, Javascript (Node, Express, React); (Tools) VS Code, Sublime, XCode, Codeblocks, Git, Github;
 
-- 🛢 &nbsp; MongoDB
-- ⚙️ &nbsp; Git &nbsp; Github
-- 🔧 &nbsp; VS Code &nbsp; Sublime &nbsp; Codeblocks &nbsp; XCode
+​
+
+Intermediate
+(Operating) Android; (general programming) Swift, Python, Java; (scripting) PHP; (web/markup) LaTeX; (statistical/data-processing) Excel;  (algebra /math processing) MATLAB; (Biochem) Avogadro, PyMOL, Autodock, ORCA, KNIME; (TARC) OpenRocket;
+
+Novice
+(Operating) Windows, Android, Linux/Unix; (database) SQL/PL, MongoDB; (statistical/data-processing) R; (PPLs) Tensorflow;
 
 <br/>
 
