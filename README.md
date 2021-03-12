@@ -7,15 +7,13 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-Proficient
+<h4> Proficient </h4>
 (Operating) MacOS; (general programming) C++; (web/markup) HTML/CSS, Javascript (Node, Express, React); (Tools) VS Code, Sublime, XCode, Codeblocks, Git, Github;
 
-​
-
-Intermediate
+<h4> Intermediate </h4>
 (Operating) Android; (general programming) Swift, Python, Java; (scripting) PHP; (web/markup) LaTeX; (statistical/data-processing) Excel;  (algebra /math processing) MATLAB; (Biochem) Avogadro, PyMOL, Autodock, ORCA, KNIME; (TARC) OpenRocket;
 
-Novice
+<h4> Novice </h4>
 (Operating) Windows, Android, Linux/Unix; (database) SQL/PL, MongoDB; (statistical/data-processing) R; (PPLs) Tensorflow;
 
 <br/>
